@@ -1,4 +1,4 @@
-My Awesome Book
+编程基础
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本软件主要是服务于学习公司金融的同学。
